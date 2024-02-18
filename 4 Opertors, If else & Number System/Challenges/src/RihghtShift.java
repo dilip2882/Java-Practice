@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-public class BitwiseCompliment {
+public class RihghtShift {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Welcome to showcase Not/Compliment operator");
+        System.out.println("Welcome to showcase Right Shift operator");
         System.out.print("Enter your number: ");
         int number = input.nextInt();
 
-        int result = ~number;
-        System.out.println("Your Complimented number is: " + result);
+        int result = number >> 1;
+        System.out.println("Your Right Shift number is: " + result);
     }
 }
