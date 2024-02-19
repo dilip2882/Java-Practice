@@ -13,4 +13,11 @@ public class OddEvenBitwise {
         }
 
     }
+    public static void Pattern {
+        System.out.println("*");
+        System.out.println("* *");
+        System.out.println("* * *");
+        System.out.println("* * * *");
+        System.out.println("* * * * *");
+    }
 }
