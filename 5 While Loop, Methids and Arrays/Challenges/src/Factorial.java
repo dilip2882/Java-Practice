@@ -4,7 +4,7 @@ public class Factorial {
     public static void main(String[] args) {
         System.out.println("Welcome to factorial calculator");
         int num = readNumber();
-        int res = FactorialNum(num);
+        long res = FactorialNum(num);
         System.out.println("The factorial of " + num + " is: " + res);
     }
 
@@ -14,12 +14,15 @@ public class Factorial {
         return input.nextInt();
     }
 
-    public static int FactorialNum(int num) {
-        int mul = 1;
+    public static long FactorialNum(int num) {
+        if (num < 2) {
+            return 1;
+        }
+        int fact = 1;
         while (num >= 1) {
-            mul = mul * num;
+            fact = fact * num;
             num--;
         }
-        return mul;
+        return fact;
     }
 }
