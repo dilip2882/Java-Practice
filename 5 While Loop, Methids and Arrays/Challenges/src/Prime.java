@@ -2,24 +2,24 @@ import java.util.Scanner;
 
 public class Prime {
     public static void main(String[] args) {
-        int n = readNumber();
+        int num = readNumber();
         int i = 1;
-        while (i <= n) {
-            System.out.println(i + " " + isPrime(n));
+        while (i <= num) {
+            System.out.println(i + " " + isPrime(i));
             i++;
         }
     }
 
-    static boolean isPrime(int n){
-        if (n <= 1) {
+    static boolean isPrime(int num){
+        if (num <= 1) {
             return false;
         }
-        int x = 2;
-        while (x * x <= n) {
-            if (n % x == 0) {
+        int i = 2;
+        while (i * i <= num) {
+            if (num % i == 0) {
                 return false;
             }
-            x++;
+            i++;
         }
         return true;
     }
