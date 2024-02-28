@@ -13,7 +13,7 @@ public class PalindromeNumber {
             } else {
                 return false;
             }
-    }
+        }
 
         static int Reverse(int num) {
             int newNum = 0;
@@ -24,6 +24,7 @@ public class PalindromeNumber {
             }
             return newNum;
         }
+
         static int readNumber() {
             Scanner input = new Scanner(System.in);
             System.out.print("Enter the number: ");
