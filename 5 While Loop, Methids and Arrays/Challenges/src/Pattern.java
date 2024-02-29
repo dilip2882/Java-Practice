@@ -5,7 +5,7 @@ public class Pattern {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter rows: ");
         int maxRows = input.nextInt();
-        pattern6(maxRows);
+        pattern7(maxRows);
 
     }
 
@@ -156,6 +156,28 @@ public class Pattern {
             // Add a newline after each row
             System.out.println();
         }
+    }
+
+//    pattern7:
+    static  void pattern7(int maxRows) {
+        for (int row = 1; row <= maxRows; row++) {
+
+            //Logic for spaces
+            for (int space = 0; space < maxRows - row; space++) {
+                System.out.print("  ");
+            }
+
+            for (int col = row; col >= 1 ; col--) {
+                System.out.print(col + " ");
+            }
+            for (int col = 2; col <= row ; col++) {
+                System.out.print(col + " ");
+            }
+
+            // Add a newline after each row
+            System.out.println();
+        }
+        
     }
 
 }
