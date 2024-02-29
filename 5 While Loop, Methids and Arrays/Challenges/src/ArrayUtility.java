@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class ArrayUtility {
     public static int[] inputArray() {
         Scanner input = new Scanner(System.in);
-        System.out.println("Array sum and Average");
         System.out.print("Please the Enter the no of elements: ");
         int size = input.nextInt();
 
