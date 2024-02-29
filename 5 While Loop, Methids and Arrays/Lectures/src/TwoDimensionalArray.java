@@ -7,6 +7,7 @@ public class TwoDimensionalArray {
         System.out.println(arr[0].length);
         System.out.println(myArr[0].length);
 
+        //Traversal
         int i = 0;
         while (i < arr.length) {
             int j = 0;
