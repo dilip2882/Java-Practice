@@ -1,4 +1,4 @@
-public class MaxMinArray {
+public class ArrayMaxMin {
     public static void main(String[] args) {
         System.out.println("Max and Min of Array");
         int[] numArr = ArrayUtility.inputArray();
