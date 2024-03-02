@@ -5,7 +5,6 @@ public class ArrayReverse {
         reverse(numArr);
         System.out.println("Your reverse array is: ");
         ArrayUtility.displayArray(numArr);
-
     }
 
     public static void reverse(int[] arr) {
