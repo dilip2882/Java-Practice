@@ -3,12 +3,14 @@ public class SumOfDiaognal2DArray {
         System.out.println("Sum of Diagonals of NxN 2D Array");
         int[][] numArr = ArrayUtility.input2DArray();
         long sum = sumOfLeftDiagonal(numArr) + sumOfRightDiagonal(numArr);
-        if (numArr.length % 2 != 0) {
-            int index = numArr.length / 2;
-            sum -= numArr[index][index];
+
+            if (numArr.length % 2 != 0) {
+                int index = numArr.length / 2;
+                sum -= numArr[index][index];
+            }
+            System.out.println("Sum of Diagonals of 2D Array is " + sum);
         }
-        System.out.println("Sum of Diagonals of 2D Array is " + sum);
-    }
+
 
     public static long sumOfLeftDiagonal(int[][] numArr) {
         long sum = 0;
