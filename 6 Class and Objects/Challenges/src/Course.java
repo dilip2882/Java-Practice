@@ -19,13 +19,35 @@ class Course {
     }
 
     void enrollStudent(String studentName) {
-        enrolledStudents[enrollments] = studentName;
-        enrollments++;
+        if (enrollments < maxCapacity) {
+            enrolledStudents[enrollments] = studentName;
+            enrollments++;
+        } else {
+            System.out.println("Course is already full. Cannot enroll more students.");
+        }
     }
 
     void unenrollStudent(String studentName) {
-        System.out.println("Student removed");
-        enrollments--;
+        int indexToRemove = -1;
+        for (int i = 0; i < enrollments; i++) {
+            if (enrolledStudents[i].equals(studentName)) {
+                indexToRemove = i;
+                break;
+            }
+        }
+
+        if (indexToRemove != -1) {
+            // Shift elements to the left
+            int i = indexToRemove;
+            while (i < enrollments - 1) {
+                enrolledStudents[i] = enrolledStudents[i + 1];
+                i++;
+            }
+            enrollments--;
+            System.out.println("Student " + studentName + " removed.");
+        } else {
+            System.out.println("Student " + studentName + " not found in the course.");
+        }
     }
 
     public static void main(String[] args) {
@@ -33,6 +55,9 @@ class Course {
         Course dsa = new Course("dsa");
         Course webDev = new Course("webDev");
         dsa.enrollStudent("Dilip");
+        dsa.enrollStudent("Raj");
+        dsa.enrollStudent("Jack");
+        dsa.unenrollStudent("Raj");
         System.out.println(dsa.enrollments);
     }
 }
