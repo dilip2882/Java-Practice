@@ -17,8 +17,7 @@ public class Switch {
             case 3 -> "Wednesday";
             case 4 -> "Thursday";
             case 5 -> "Friday";
-            case 6 -> "Saturday";
-            case 7 -> "Sunday";
+            case 6, 7 -> "Holiday";
             default -> "Not found";
         };
         System.out.println("New switch result: " + dayStr);
@@ -41,11 +40,9 @@ public class Switch {
             case 5:
                 System.out.println("Friday");
                 break;
-            case 6:
-                System.out.println("Saturday");
-                break;
+            case 6: // fall through
             case 7:
-                System.out.println("Sunday");
+                System.out.println("Holiday");
                 break;
             default:
                 System.out.println("Not found");
