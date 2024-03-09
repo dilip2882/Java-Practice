@@ -6,7 +6,25 @@ public class Switch {
         System.out.println("Day of week detector\n");
         System.out.print("Enter the day in number: ");
         int day = input.nextInt();
+//        oldSwitch(day);
+        newSwitch(day);
+    }
 
+    public static void newSwitch(int day) {
+        String dayStr = switch (day) {
+            case 1 -> "Monday";
+            case 2 -> "Tuesday";
+            case 3 -> "Wednesday";
+            case 4 -> "Thursday";
+            case 5 -> "Friday";
+            case 6 -> "Saturday";
+            case 7 -> "Sunday";
+            default -> "Not found";
+        };
+        System.out.println("New switch result: " + dayStr);
+    }
+
+    public static void oldSwitch(int day) {
         switch (day) {
             case 1:
                 System.out.println("Monday");
@@ -31,8 +49,6 @@ public class Switch {
                 break;
             default:
                 System.out.println("Not found");
-
         }
     }
-
 }
