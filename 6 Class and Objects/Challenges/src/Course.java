@@ -27,7 +27,7 @@ class Course {
         }
     }
 
-    void unenrollStudent(String studentName) {
+    void unenrollstudent(String studentName) {
         int indexToRemove = -1;
         for (int i = 0; i < enrollments; i++) {
             if (enrolledStudents[i].equals(studentName)) {
@@ -57,7 +57,7 @@ class Course {
         dsa.enrollStudent("Dilip");
         dsa.enrollStudent("Raj");
         dsa.enrollStudent("Jack");
-        dsa.unenrollStudent("Raj");
+        dsa.unenrollstudent("Raj");
         System.out.println(dsa.enrollments);
     }
 }
