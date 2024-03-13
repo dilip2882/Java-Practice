@@ -9,7 +9,6 @@ public class FibonacciRecursion {
         for (int i = 1; i <= count; i++) {
             System.out.println(fibonacci(i) + " ");
         }
-
     }
 
     public static int fibonacci(int position) {
