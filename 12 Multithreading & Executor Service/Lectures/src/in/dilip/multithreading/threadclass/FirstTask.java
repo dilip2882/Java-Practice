@@ -1,4 +1,4 @@
-package in.dilip.multithreading;
+package in.dilip.multithreading.threadclass;
 
 public class FirstTask extends Thread {
 

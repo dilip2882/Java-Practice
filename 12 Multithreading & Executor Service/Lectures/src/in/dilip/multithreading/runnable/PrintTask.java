@@ -1,4 +1,4 @@
-package in.dilip.runnable;
+package in.dilip.multithreading.runnable;
 
 public class PrintTask implements Runnable {
 

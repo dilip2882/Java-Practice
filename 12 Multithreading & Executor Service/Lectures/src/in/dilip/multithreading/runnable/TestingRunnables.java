@@ -1,17 +1,18 @@
-package in.dilip.multithreading;
+package in.dilip.multithreading.runnable;
 
-public class ExtendingThreadClass {
+public class TestingRunnables {
     public static void main(String[] args) {
         long startTime = System.currentTimeMillis();
-        FirstTask t1 = new FirstTask();
-        SecondTask t2 = new SecondTask();
-        ThirdTask t3 = new ThirdTask();
 
-        System.out.println("\nStarting First Thread");
+        PrintTask p1 =  new PrintTask('*');
+        PrintTask p2 =  new PrintTask('$');
+        PrintTask p3 =  new PrintTask('#');
+
+        Thread t1 = new Thread(p1);
         t1.start();
-        System.out.println("\nStarting Second Thread");
+        Thread t2 = new Thread(p2);
         t2.start();
-        System.out.println("\nStarting Third Thread");
+        Thread t3 = new Thread(p3);
         t3.start();
 
         long endTime = System.currentTimeMillis();
