@@ -1,7 +1,302 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0611ccd-9b76-411a-8d2e-7ea06dc80b2a" name="Changes" comment="" />
+    <list default="true" id="c0611ccd-9b76-411a-8d2e-7ea06dc80b2a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Morning.java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Morning.java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Morning.java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Morning.java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Morning.java/Morning.java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Morning.java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Patterns.java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Patterns.java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Patterns.java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Patterns.java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Patterns.java/src/LeftHalfPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Patterns.java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Patterns.java/src/RightHalfPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Patterns.java/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/Variables/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Challenges/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Lectures/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Lectures/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Lectures/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Lectures/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Lectures/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Lectures/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Lectures/FirstProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Lectures/src/FirstProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Basics/Lectures/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Challenges/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Challenges/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Challenges/.idea/Challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Challenges/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Challenges/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Challenges/Challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Challenges/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Challenges/src/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Challenges/src/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Lectures/Variables/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Lectures/Variables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Lectures/Variables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Lectures/Variables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Lectures/Variables/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Lectures/Variables/Variables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Lectures/Variables/src/Escape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Lectures/Variables/src/TypeConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Lectures/Variables/src/UserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 Data Types Variables and Input/Lectures/Variables/src/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/.idea/4 Opertors, If else &amp; Number System.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/Challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/AgeCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/Arithmetic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/BitwiseAnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/BitwiseCompliment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/BitwiseOr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/BitwiseXor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/CompoundInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/FahrenheitToCelsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/FloatMultiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/Gradeing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/GreatestOfThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/LeapYear2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/LeftShift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/OddEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/OddEvenBitwise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/Perimeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/PositiveNegativeZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/RihghtShift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/SimpleInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Challenges/src/TraingleArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/Lectures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/src/Arithmetic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/src/Assignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/src/LearningIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/src/OrderofOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/src/Relational.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/src/Shorthand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Opertors, If else &amp; Number System/Lectures/src/Unary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/Challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/ArmstrongNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/ArrayDelete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/ArrayMaxMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/ArrayOccurrences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/ArrayPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/ArrayReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/ArraySorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/ArraySumAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/ArrayUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/Challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/GCD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/LCM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/LoopPatterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/MergeTwoSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/PalindromeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/Prime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/ReverseTheDigiits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/Search2DArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/SumAndAverage2DArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/SumAndAverageOfTwo2DArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/SumOfDiaognal2DArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/SumOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/SumOfOddNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Challenges/src/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/Lectures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/src/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/src/ArraySearching.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/src/Comments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/src/Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/src/Parameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/src/Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/src/Return.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/src/TwoDimensionalArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 While Loop, Methids and Arrays/Lectures/src/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6 Class and Objects/Challenges/src/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6 Class and Objects/Lectures/src/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/Challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/AbsoluteTernary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/ArrayToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/ArrayUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/CalculatorSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/CarFinal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/DiceRoll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/ExitOnExit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/FibonacciRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/GuessingGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/MaxArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/MinimumTernary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/MonthSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/MultiplicationTableFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/NumberGuessingGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/OccurrencesForEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/PalindromeRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/PasswordChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/PrimeFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/PrintEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/StringManipulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/StudentScoreTernary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/StudentToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/SumPositive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Challenges/src/oddEvenTernary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/Lectures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/BreakAndContinue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/DoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/ForEachLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/Maths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/Recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/StringFormat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/StringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/TernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 Control Statements, Math &amp; String/Lectures/src/TestingFinal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/.idea/8 Encapsulation &amp; Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/Challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge77/geometry/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge77/geometry/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge77/utils/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge78/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge78/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge79/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge79/TestEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge80/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge80/DVD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge80/LibraryItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge80/Magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge81/EqualsAndHashCodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge81/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge82/ArrayOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Challenges/src/in/dilip/challenge82/TestArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/Leacture.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/Leactures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/Leactures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/AccessTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/Default.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/Packages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/TwoWheeler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/equals/EqualsAndHashCodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/equals/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/inheritance/InheritanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/inheritance/MotorCycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/inheritance/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/nested/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/passby/TestPassByReference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/passby/TestPassByValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/polymorphism/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/polymorphism/Overloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/polymorphism/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/polymorphism/TestTransportation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/dilip/polymorphism/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/gettersetter/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/knowledgegate/DefaultTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/knowledgegate/GetterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Encapsulation &amp; Inheritance/Leactures/src/in/knowledgegate/Packages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/Challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge83/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge83/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge83/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge83/TestShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge84/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge84/Eagle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge84/Flyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge84/TestFly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge85/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge86/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge86/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Challenges/src/in/dilip/challenge86/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Lectures/src/in/dilip/abstraction/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Lectures/src/in/dilip/abstraction/TestAbstraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Lectures/src/in/dilip/abstraction/Transport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Lectures/src/in/dilip/abstraction/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Lectures/src/in/dilip/passby/TestPassByReference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Lectures/src/in/dilip/passby/TestPassByValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Lectures/src/in/dilip/polymorphism/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Lectures/src/in/dilip/polymorphism/Overloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Lectures/src/in/dilip/polymorphism/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Lectures/src/in/dilip/polymorphism/TestTransportation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9 Abstraction and Polymorphism/Lectures/src/in/dilip/polymorphism/Vehicle.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,22 +305,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2dnZiwACE9LeaezGpoB7nrl9TCp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
